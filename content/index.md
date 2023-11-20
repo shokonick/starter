@@ -4,6 +4,9 @@ This page corresponds to the `/` route of your website. You can delete it or cre
 
 Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
 
+<UButton to="https://volta.net" target="_blank">Button</UButton>
+
+
 ---
 
 Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
