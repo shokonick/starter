@@ -3,3 +3,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/content']
 })
+export default defineNuxtConfig({
+  modules: ['@nuxt/ui']
+})
